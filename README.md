@@ -7,4 +7,8 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 #Data
 The data set that contains information about Rockbuster’s
 film inventory, customers, and payments, among other things.
-The full details of data is available [here](C:\Users\mojis\Downloads\dvdrental.zip)
+
+The full details of data and postgreSQL tutorial is available [here](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
+
+# Tools
+For this project, SQL was used for analysis and Tableau was used for visualization and presentation.
